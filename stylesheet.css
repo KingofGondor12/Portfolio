@@ -1,0 +1,27 @@
+body {
+  color: lightgrey;
+  background-color: #606060;
+}
+}
+header {
+  background: url(https://i.imgur.com/FTvFJBz.png);
+}
+footer {
+  font-size: 12px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  margin-left: 600px;
+}
+a {
+  color: lightgrey;
+  text-decoration: none;
+}
+a :hover {
+  color: lightgrey;
+}
+.flex-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
